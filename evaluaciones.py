@@ -1,4 +1,5 @@
 from pizza import Pizza
+from ingredientes import tipos_masa, tipos_proteina, tipos_vegetal
 #llama atributos de clase con pizza.atributo
 print(f"Precio de la pizza: ${Pizza.precio}")
 print(f"Tamaño de la pizza {Pizza.tamaño}")

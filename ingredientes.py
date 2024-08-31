@@ -1,3 +1,3 @@
-tipos_masa = ["Tradicional", "Delgada"]
-tipos_vegetal = ["Tomates", "Aceitunas", "Champiñones"]
-tipos_proteina = ["Pollo", "Vacuno", "Carne Vegetal"]
+tipos_masa = ["tradicional", "delgada"]
+tipos_vegetal = ["tomates", "aceitunas", "champiñones"]
+tipos_proteina = ["pollo", "vacuno", "carne vegetal"]
